@@ -97,9 +97,6 @@ CentOS镜像](https://hub.docker.com/r/library/centos/)(centos5+)是通过GitHub
         RUN rm /var/lib/rpm/*
         RUN rpm --initdb
 
-        # Clean yum cache
-        RUN yum clean all
-
         ENTRYPOINT ["linux32"]
         CMD ["/bin/bash"]
 
