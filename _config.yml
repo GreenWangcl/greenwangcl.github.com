@@ -81,7 +81,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : commentit
     disqus :
       short_name : jekyllbootstrap
     livefyre :
@@ -95,6 +95,9 @@ JB :
       colorscheme: light
     duoshuo :
       short_name : jekyllbootstrap
+    commentit:
+      username: GreenWangcl
+      repo: GreenWangcl/greenwangcl.github.com
 
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
