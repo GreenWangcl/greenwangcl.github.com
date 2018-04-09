@@ -5,105 +5,84 @@ title: 我的简历
 
 ---
 
-# 联系方式
+# 王晨龙 （男/ 1988）
 
-- 手机：13952012556 (南京)
+- 本科 / 安徽大学计算机科学与技术专业
+- 工作年限：7年
+- 手机：13952012556
 - Email：greenwangcl@gmail.com
-- 微信号：peoplewang
+- 微信：peoplewang
+- GitHub：https://github.com/greenwangcl
 
 ---
 
-# 个人信息
+# 求职意向
 
- - 王晨龙/男/1988
- - 本科/安徽大学计算机科学与技术专业
- - 工作年限：6年
- - 技术博客：[https://greenwangcl.github.io](https://greenwangcl.github.io)
- - GitHub：[https://github.com/greenwangcl](https://github.com/greenwangcl)
-
- - 期望职位：Android/iOS高级工程师，技术总监，产品经理
- - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
+ - 期望职位：技术经理，Android高级工程师，机器学习工程师
+ - 期望薪资：税前月薪15k~20k
  - 期望城市：合肥
 
+ ---
+
+ # 技术能力
+
+ - 编程语言：Java、Kotlin、Python、Ruby、Shell、Objective-C、C++
+ - 系统平台：Android、iOS
+ - 管理工具：Redmine、Office、XMind、GitLab
+ - 通过Udacity机器学习纳米学位
+
 ---
 
-# 工作经历
+# 工作经验
 
-## 宇飞来星河科技有限公司
-智能设备与软件开发 `( 2017年3月 ~ 现在 )`
+### 合肥酷聊智能科技有限公司  <small>( 2017年3月 ~ 现在 )</small>
 
-**职位：Android部门主管，项目规划总监**
+职位：部门主管，技术专家，Android组长
 
 - 职责：
-    - 制定产品开发计划
+    - 项目管理，制定开发计划
     - 协调产品、设计、服务端、客户端各部门工作
-    - Android项目开发计划的制定与执行
-    - Android已有项目架构优化以及新功能开发
+    - Android已有项目架构优化
     - Android新项目架构设计
-- 成长：
-    - 完全独立领导项目组的开发工作
-    - 通过培训提高项目组所有成员的技术能力以及工作效率
-    - 使用MVP模式设计软件架构并应用到项目中
-- 成果：
-    - 提高了公司各部门之间的协同工作能力
-    - 功能开发更加稳定并能按时交付
-- 总结：高效的工作不仅需要有过硬的技术，还需要有很高的沟通、协作能力。
+- 成就：
+    - 搭建Redmine、GitLab平台，提高各部门的工作效率以及协同能力
+    - MVP设计模式培训，使得Android组所有成员掌握该模式，并在项目开发过程中合理使用该模式
+    - 指导Android组全体成员转换使用Kotlin
+    - 对已有Android项目进行改造，使得模块分工更清晰
+- 总结：高效的工作不仅需要有过硬的技术能力，还需要有较高的沟通、协作能力。
 
-## 瞬联软件科技(北京)有限公司
-技术咨询和软件外包 `( 2011年1月 ~ 2017年1月 )`
+### 瞬联软件科技(北京)有限公司  <small>( 2011年1月 ~ 2017年1月 )</small>
 
-**职位：技术专家，高级软件工程师**
+职位：技术专家，高级软件工程师
 
-### DevOps研究及在项目中应用  <small>( 2016年5月 ~ 2017年1月 )</small>
+#### DevOps研究及在项目中应用  <small>( 2016年5月 ~ 2017年1月 )</small>
 
-- 贡献：总结之前项目的开发经验，从而制定方案并组织讨论。负责功能开发与产品部署。将研究成果文档化并对公司员工进行技术培训
-- 成长：在研究学习中更深入的了解DevOps这一理念，并学习了Docker、Ruby、Ansible等新的语言和技术。
-- 成果：最终我们运用现有的GitLab、Docker技术实现了可复用的CI/CD流程，并能成功将应用发布到TestFlight及HockeyApp等第三方分发平台上。后期为了提高技术含量，基于GitLabCI开发了内部可部署、可维护的CI服务。
-- 总结：这个项目中，对我来说最重要的是掌握了时下最火的Docker技术，并认识到在项目开发过程中标准化与自动化的重要性。
+- 职责：
+    - 总结项目开发经验，制定项目DevOps化改进方案
+    - 方案的开发以及部署
+    - 按照改进方案对技术部进行技术培训
+- 成就：
+    - 基于GitLab实现手机客户端应用开发的DevOps化方案
+    - 利用Docker技术实现平台部署
+    - 标准化手机客户端的发布流程，并将流程自动化，提高发布效率
+- 总结：掌握Docker技术，使用标准化、自动化的流程不仅提高了效率也减少了错误发生的概率
 
-### [圈儿里](http://www.intracircle.cn/)  <small>( 2014年8月 ~ 2016年1月 )</small>
+#### [圈儿里](http://www.intracircle.cn/)  <small>( 2014年8月 ~ 2016年1月 )</small>
 
-- 贡献：Android客户端架构设计、Android客户端TL、产品推广运营
-- 成长：完整的参与一个产品构想、设计、开发、推广以及运营和维护，了解了作为一个产品的全生命周期应该如何运作，会出现什么问题
-- 成果：产品iOS/Android/Web各部分经过7、8个月的时间实现第一个版本上线，并在随后的5、6个月的时间内持续更新，2~3周有一个版本更新，约1.5月有新功能版本更新，产品上线一年注册用户10w+，平均日活1k+
+- 职责：
+    - Android客户端架构设计
+    - Android客户端开发
+    - 产品推广运营
+- 成就：
+    - 在8个月内完成从提出构想到第一个版本发布（全体项目成员6人）
+    - 产品上线一年注册用户10w+，平均日活1k+
+    - 能够实现2~3周一次版本更新
 
-### Pocket Avatars  <small>( 2013年4月 ~ 2014年7月 )</small>
+#### Pocket Avatars  <small>( 2013年4月 ~ 2014年7月 )</small>
 
-- 贡献：iOS/Android客户端开发，media模块开发
-- 成长：video/audio模块知识得到扩充，深入的学习了chrome的media模块，掌握了如何从音视频设备生成多媒体文件以及如何从多媒体文件一步步将声音视频数据送到硬件中并播放出来，在iOS上进行chrome代码移植，在Android上使用chrome media模块思想开发实现
-
----
-
-# 开源项目和作品
-
-## 开源项目
-
- - [docker-ci-android-app](https://github.com/greenwangcl/docker-ci-android-app)：创建可以执行Android编译的Docker镜像
- - [ExpandableTextView](https://github.com/greenwangcl/ExpandableTextView)：Android上TextView扩展，可以展开全文
-
-## 技术文章
-
-- [Docker基础镜像-ubuntu下制作CentOS4.7](笔记/2017/01/04/centos-base-docker-image-build)
-- [DevOps学习笔记](笔记/2017/01/03/devops-research)
-
-# 技能清单
-
-#### 熟练使用的技能:
-
-- Android开发：Linux/Eclipse/Android Studio/Gradle
-- iOS开发：xCode/Objective-C
-- 其他开发工具：Shell/Dash/Atom/Homebrew/VirtualBox
-- 第三方库：个推/友盟/Crashlytics/百度地图/微信/支付宝
-- 版本管理、文档工具：Svn/Git/GitHub/GitLab/Markdown/ProcessOn(在线作图)
-- DevOps相关：Docker/GitLabCI
-- 协议栈：SIP/XMPP/HTTP/RTP/TCP/UDP
-- 项目管理、Code Review工具：Redmine/Jenkins/Gerrit
-
-#### 了解的技能:
-
-- web开发：Ruby/Rails/Python/Django
-- 应用分发平台：TestFlight/HockeyApp
-- 数据库相关：PgSQL/SQLite
-- 云和开放平台：微信应用开发/阿里云
-- 自动化部署工具：Ansible/Vagrant/Packer
-- 开源项目：chrome(主要了解media部分)
+- 职责：
+    - iOS/Android客户端开发
+    - media模块功能开发，实现自定义文件格式的音视频录制与播放
+- 成就：
+    - 掌握chrome media模块架构，可以基于该模块进行修改、扩展
+    - 掌握ffmpeg、SIP等第三方库的使用
