@@ -24,7 +24,7 @@ title: 我的简历
 
  ---
 
- # 技术能力
+# 技术能力
 
  - 编程语言：Java、Kotlin、Python、Ruby、Shell、Objective-C、C++
  - 系统平台：Android、iOS
